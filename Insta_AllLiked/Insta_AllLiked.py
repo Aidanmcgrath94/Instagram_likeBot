@@ -84,7 +84,7 @@ def insta_likethatshit(username, password, TargetAccount):
     like_it(browser) 
     continue_liking(browser) 
 
-    print("Fin Diddle diddly")
+    print("Finished")
     print("Close Browser")
     browser.close()
 
